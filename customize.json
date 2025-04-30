@@ -1,11 +1,11 @@
 {
-  "greeting": "Weegen",
-  "name": "Floribert",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! \uD83D\uDE09",
-  "imagePath": "img/weegen2.png",
-  "image2Path": "img/weegen.png",
-  "text1": "It's your birthday!!! \uD83D\uDE00",
+  "greeting": "Hi",
+  "name": "My dear sister Ayesha",
+  "greetingText": "Your name isn't just beautiful - it carries a vibe as warm and special as you are .",
+  "wishText": "Some People come into our lives and make it brighter just by being in it - you're one of them \uD83D\uDE09",
+  "imagePath": "img/1.jpeg",
+  "image2Path": "",
+  "text1": "We may not share the same house or blood, but the bond we share is no less than that of a real sibling. \uD83D\uDE00",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
@@ -19,6 +19,6 @@
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
   "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "replayText": "Or click on your name , if you want to watch it again. Ayesha",
   "outroSmiley": "\uD83D\uDE0A"
 }
